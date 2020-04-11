@@ -9,6 +9,6 @@ import java.sql.SQLOutput;
  */
 public class 求两个链表的交点 {
     public static void main(String[] args) {
-        
+        System.out.println();
     }
 }
